@@ -1,0 +1,6 @@
+id=force-volte-enable
+name=VoLTE Enabler
+version=v01
+versionCode=1
+author=AndroPlus
+description=Force enable VoLTE
